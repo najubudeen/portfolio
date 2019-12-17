@@ -296,27 +296,12 @@ html {
     background-color: #ff8c00;
   }
 }
-/* .welcome {
-  font-family: "K2D", sans-serif;
-  font-size: 80px;
-} */
 .welcome-col {
   width: 100%;
   background-color: rgba(255, 255, 255, 0.4);
 }
-/* .sub-text {
-  font-family: "K2D", sans-serif;
-  font-size: 40px;
-} */
+
 /*Resume Download button */
-.btn {
-  background-color: DodgerBlue;
-  border: none;
-  color: white;
-  padding: 12px 30px;
-  cursor: pointer;
-  font-size: 20px;
-}
 
 /* Darker background on mouse-over */
 .btn:hover {
